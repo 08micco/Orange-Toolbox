@@ -71,7 +71,7 @@ class code_gen:
 
         # Generate codes
 
-        mail = str(code_gen.format_mail("Mathnickelsen@gmail.com", mail_num))
+        mail = str(code_gen.format_mail("bertram.lorenzen93@gmail.com", mail_num))
 
         headers = {
             "authority": "www.zalando.dk",
