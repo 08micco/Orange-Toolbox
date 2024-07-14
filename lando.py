@@ -53,7 +53,7 @@ class colors:
     UNDERLINE = "\033[4m"
 
 
-Zalando_Client_Id = "45c395db-7521-45ba-871d-5553f7fa8d0d"
+Zalando_Client_Id = "Zalando Client ID"
 
 
 def login():
