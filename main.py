@@ -35,7 +35,7 @@ def main():
     # Jigger
     elif chosen_mode == 2:
         print("\nJigger Chosen")
-        jigger.main("3", "Kollegievej", "2B, 8. -4", 25)
+        jigger.main("3", "Road", "Road Num", 25)
 
     # Zalando ACO
     elif chosen_mode == 3:
