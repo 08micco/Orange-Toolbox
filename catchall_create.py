@@ -1,7 +1,7 @@
 import csv
 import random
 
-domain = "theorangecomp.com"
+domain = "domain.com"
 
 file_path_read = "name+email/name_and_email.csv"
 file_path_write = "name+email/new_name_and_email.csv"
